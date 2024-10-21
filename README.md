@@ -88,3 +88,5 @@ This page segments customers based on their income utilization to identify high-
 4. Actionable Recommendations: The project culminates in actionable recommendations that empower the strategy team at Mitron Bank to make informed decisions. These insights pave the way for the development of credit card products that cater to the unique preferences and behaviors of their customer base.
 
 Through this project, we have laid the groundwork for a comprehensive understanding of customer dynamics at Mitron Bank, setting the stage for successful product development and strategic market positioning.
+
+#WALLPAPER BY FREEPIK
