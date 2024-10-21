@@ -1,5 +1,7 @@
 # Mitron Bank Credit Card Analysis
 
+![Alt text](CID.jpg)
+
 ## Overview
 This project involves analyzing a sample dataset of 4000 customers provided by Mitron Bank to support the development of a new line of credit cards. The analysis focuses on customer spending behavior, demographics, and payment preferences, providing actionable insights to inform product offerings. This project is part of the Resume Project challenge by CodeBasics, aimed at showcasing analytical skills and practical application of data analysis tools.
 
